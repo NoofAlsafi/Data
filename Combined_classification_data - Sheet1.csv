@@ -1,0 +1,291 @@
+Product_Name,Product_Type,Total_Score,EPEAT_Tier,Registered_On,Carbon_footprint
+OptiPlex 3050 Micro,Desktop,20 of 51,Bronze,17/1/2019,258
+OptiPlex 3050 SFF,Desktop,20 of 51,Bronze,17/1/2019,419
+OptiPlex 3050 Tower,Desktop,20 of 51,Bronze,17/1/2019,432
+OptiPlex 3060 Micro,Desktop,20 of 51,Bronze,17/1/2019,244
+OptiPlex 3060 SFF,Desktop,20 of 51,Bronze,17/1/2019,414
+OptiPlex 3060 Tower,Desktop,20 of 51,Bronze,12/6/2019,483
+OptiPlex 3070 Micro,Desktop,30 of 44,Silver,1/6/2019,273
+OptiPlex 3070 SFF,Desktop,32 of 48,Silver,1/6/2019,399
+OptiPlex 3070 Tower,Desktop,32 of 48,Silver,1/6/2019,579
+OptiPlex 3080 Micro (65W adapter),Desktop,34 of 44,Gold,15/9/2020,273
+OptiPlex 3080 Micro (Silver),Desktop,31 of 44,Silver,15/9/2020,273
+Optiplex 3080 SFF,Desktop,37 of 48,Gold,14/9/2020,430
+Optiplex 3080 SFF (Silver),Desktop,34 of 48,Silver,15/9/2020,430
+Optiplex 3080 Tower,Desktop,37 of 48,Gold,14/9/2020,483
+Optiplex 3080 Tower (Silver),Desktop,34 of 48,Silver,14/9/2020,483
+ OptiPlex 3090 Micro,Desktop,33 of 42,Gold,27/9/2021,260
+OptiPlex 3090 Micro (Silver).,Desktop,32 of 44,Silver,27/9/2021,260
+OptiPlex 3090 SFF,Desktop,36 of 48,Gold,27/9/2021,425
+OptiPlex 3090 SFF (Silver),Desktop,34 of 48,Silver,27/9/2021,425
+OptiPlex 3090 Tower,Desktop,36 of 48,Gold,27/9/2021,388
+OptiPlex 3090 Tower (Silver),Desktop,34 of 48,Silver,27/9/2021,388
+OptiPlex 3090 Ultra,Desktop,33 of 44,Gold,12/1/2021,210
+OptiPlex 3090 Ultra(Silver),Desktop,31 of 44,Silver,12/1/2021,210
+OptiPlex 3280 AIO,Integrated Desktop Computer,36 of 47,Gold,18/5/2020,365
+OptiPlex 5050 Micro,Desktop,20 of 51,Bronze,17/1/2019,259
+OptiPlex 5050 SFF,Desktop,20 of 51,Bronze,17/1/2019,411
+OptiPlex 5050 Tower,Desktop,20 of 51,Bronze,17/1/2019,489
+OptiPlex 5055 SFF,Desktop,20 of 51,Bronze,17/1/2019,436
+OptiPlex 5055 Tower,Desktop,20 of 51,Bronze,17/1/2019,483
+OptiPlex 5060 Micro,Desktop,20 of 51,Bronze,17/1/2019,262
+OptiPlex 5060 SFF,Desktop,20 of 51,Bronze,17/1/2019,425
+OptiPlex 5060 Tower,Desktop,20 of 51,Bronze,17/1/2019,501
+OptiPlex 5070 Micro,Desktop,30 of 44,Silver,1/6/2019,272
+OptiPlex 5070 SFF,Desktop,32 of 48,Silver,1/6/2019,406
+OptiPlex 5070 Tower,Desktop,32 of 48,Silver,1/6/2019,575
+OptiPlex 5080 Micro (Silver),Desktop,32 of 44,Silver,18/5/2020,263
+OptiPlex 5080 Micro (90W & 130W adapter),Desktop,34 of 44,Gold,15/9/2020,263
+OptiPlex 5080 SFF,Desktop,37 of 48,Gold,18/5/2020,398
+OptiPlex 5080 SFF (Silver),Desktop,34 of 48,Silver,18/5/2020,398
+OptiPlex 5080 Tower,Desktop,37 of 48,Gold,18/5/2020,530
+OptiPlex 5080 Tower (Silver),Desktop,34 of 48,Silver,18/5/2020,530
+OptiPlex 5090 Micro (90W & 130W adapter),Desktop,33 of 44,Gold,29/4/2021,255
+OptiPlex 5090 Micro (Silver),Desktop,31 of 44,Silver,29/4/2021,255
+OptiPlex 5090 SFF,Desktop,36 of 48,Gold,27/4/2021,370
+OptiPlex 5090 SFF (Silver),Desktop,34 of 48,Silver,27/4/2021,370
+OptiPlex 5090 Tower,Desktop,36 of 48,Gold,27/4/2021,501
+OptiPlex 5090 Tower (Silver),Desktop,34 of 48,Silver,27/4/2021,501
+OptiPlex 5270 AIO,Integrated Desktop Computer,33 of 48,Silver,23/8/2019,403
+OptiPlex 5480 AIO,Integrated Desktop Computer,37 of 48,Gold,18/5/2020,481
+Dell OptiPlex 5490 AIO,Integrated Desktop Computer,36 of 48,Gold,26/4/2021,388
+Dell OptiPlex 5490 AIO (Silver),Integrated Desktop Computer,34 of 48,Silver,27/4/2021,388
+OptiPlex 7050 Micro,Desktop,20 of 51,Bronze,17/1/2019,258
+OptiPlex 7050 SFF,Desktop,20 of 51,Bronze,17/1/2019,416
+OptiPlex 7050 Tower,Desktop,20 of 51,Bronze,17/1/2019,491
+OptiPlex 7060 Micro,Desktop,20 of 51,Bronze,17/1/2019,245
+OptiPlex 7060 SFF,Desktop,20 of 51,Bronze,17/1/2019,398
+OptiPlex 7060 Tower,Desktop,20 of 51,Bronze,17/1/2019,485
+OptiPlex 7070 Micro,Desktop,30 of 44,Silver,1/6/2019,272
+OptiPlex 7070 SFF ,Desktop,32 of 48,Silver,25/7/2019,417
+OptiPlex 7070 Tower,Desktop,33 of 48,Silver,24/9/2019,578
+OptiPlex 7070 Ultra,Desktop,33 of 44,Gold,26/9/2019,196
+OptiPlex 7071 Tower,Desktop,32 of 48,Silver,27/9/2019,490
+OptiPlex 7080 Micro ( 180W adapter),Desktop,34 of 44,Gold,14/9/2020,263
+OptiPlex 7080 Micro (90W & 130W adapter),Desktop,34 of 44,Gold,15/9/2020,263
+OptiPlex 7080 SFF,Desktop,37 of 48,Gold,18/5/2020,399
+OptiPlex 7080 Tower,Desktop,37 of 48,Gold,18/5/2020,488
+OptiPlex 7090 Micro (180W adapter),Desktop,33 of 44,Gold,29/4/2021,267
+OptiPlex 7090 Micro (90W & 130W adapter),Desktop,33 of 44,Gold,30/4/2021,267
+OptiPlex 7090 SFF,Desktop,36 of 48,Gold,27/4/2021,382
+OptiPlex 7090 Tower,Desktop,36 of 48,Gold,27/4/2021,454
+OptiPlex 7090 Ultra,Desktop,33 of 44,Gold,12/1/2021,214
+OptiPlex 7470 AIO,Integrated Desktop Computer,33 of 48,Silver,23/8/2019,449
+OptiPlex 7480 AIO,Integrated Desktop Computer,37 of 48,Gold,18/5/2020,512
+Dell OptiPlex 7490 AIO,Integrated Desktop Computer,36 of 48,Gold,26/4/2021,382
+Dell OptiPlex 7490 AIO (Silver),Integrated Desktop Computer,34 of 48,Silver,27/4/2021,382
+OptiPlex 7770 AIO,Integrated Desktop Computer,33 of 48,Silver,23/8/2019,514
+OptiPlex 7780 AIO,Integrated Desktop Computer,37 of 48,Gold,19/5/2020,543
+OptiPlex XE2 MT,Desktop,20 of 51,Bronze,17/1/2019,594
+OptiPlex XE2 SFF,Desktop,20 of 51,Bronze,17/1/2019,537
+OptiPlex XE3 SFF,Desktop,34 of 48,Silver,16/10/2019,451
+OptiPlex XE3 Tower,Desktop,32 of 48,Silver,16/10/2019,509
+OptiPlex 3050 AIO,Integrated Desktop Computer,20 of 51,Bronze,17/1/2019,397
+OptiPlex 5260 AIO,Integrated Desktop Computer,20 of 51,Bronze,17/1/2019,461
+OptiPlex 7450 AIO,Integrated Desktop Computer,20 of 51,Bronze,17/1/2019,551
+OptiPlex 7460 AIO,Integrated Desktop Computer,20 of 51,Bronze,17/1/2019,522
+OptiPlex 7760 AIO,Integrated Desktop Computer,20 of 51,Bronze,17/1/2019,720
+Dell EMC PowerEdge C6420,Multi-node Server,3 of 69,Bronze,30/8/2018,6510
+Dell EMC PowerEdge FC640,Multi-node Server,3 of 69,Bronze,30/8/2018,7460
+Dell EMC PowerEdge M640,Blade Server,3 of 66,Bronze,30/8/2018,7000
+DELL EMC PowerEdge R240,Rack-mounted Server,3 of 69,Bronze,5/11/2019,5260
+Dell EMC PowerEdge R340,Rack-mounted Server,3 of 69,Bronze,29/11/2018,5230
+Dell EMC PowerEdge R440,Rack-mounted Server,3 of 69,Bronze,30/8/2018,7360
+Dell EMC PowerEdge R540,Rack-mounted Server,3 of 69,Bronze,30/8/2018,8230
+Dell EMC PowerEdge R640,Rack-mounted Server,3 of 69,Bronze,30/8/2018,7730
+Dell EMC PowerEdge R6415,Rack-mounted Server,3 of 69,Bronze,30/8/2018,6840
+Dell EMC PowerEdge C6525,Multi-node Server,3 of 67,Bronze,9/12/2019,12700
+Dell EMC PowerEdge R740,Rack-mounted Server,3 of 69,Bronze,30/8/2018,8640
+Dell EMC PowerEdge R740xd,Rack-mounted Server,3 of 69,Bronze,30/8/2018,9180
+Dell EMC PowerEdge R7415,Rack-mounted Server,3 of 69,Bronze,30/8/2018,8090
+Dell EMC PowerEdge R7425,Rack-mounted Server,3 of 69,Bronze,30/8/2018,11600
+DELL EMC PowerEdge R7525,Rack-mounted Server,3 of 69,Bronze,27/2/2020,11600
+DELL EMC PowerEdge R7515,Rack-mounted Server,3 of 69,Bronze,24/9/2019,8990
+Dell EMC PowerEdge R840,Rack-mounted Server,3 of 69,Bronze,30/8/2018,15600
+Dell EMC PowerEdge R940,Rack-mounted Server,3 of 69,Bronze,4/9/2018,14100
+Dell EMC PowerEdge R940xa,Rack-mounted Server,3 of 69,Bronze,30/8/2018,13200
+Dell EMC PowerEdge T340,Pedestal Server,3 of 69,Bronze,29/11/2018,4780
+Dell EMC PowerEdge T440,Pedestal Server,3 of 69,Bronze,30/8/2018,7810
+Dell EMC PowerEdge T640,Pedestal Server,3 of 69,Bronze,30/8/2018,8000
+DELL C1422H,Monitors,34 of 43,Gold,30/8/2021,442
+DELL C2722DE,Monitors,38 of 46,Gold,11/2/2021,642
+DELL C3422WE,Monitors,38 of 46,Gold,11/2/2021,790
+E1916HV,Monitors,13 of 46,Bronze,17/1/2019,406
+DELL E1920H,Monitors,38 of 46,Gold,8/1/2020,352
+E2016H,Monitors,13 of 46,Bronze,17/1/2019,423
+E2016HV,Monitors,13 of 46,Bronze,17/1/2019,426
+DELL E2020H,Monitors,38 of 46,Gold,8/1/2020,401
+E2216H,Monitors,13 of 44,Bronze,17/1/2019,441
+E2216HV,Monitors,13 of 46,Bronze,17/1/2019,440
+E2219HN,Monitors,13 of 46,Bronze,17/1/2019,361
+DELL E2220H,Monitors,37 of 46,Gold,8/1/2020,411
+DELL E2221HN,Monitors,37 of 46,Gold,28/9/2020,411
+DELL E2222HS,Monitors,37 of 46,Gold,15/7/2021,551
+DELL E2223HN,Monitors,37 of 46,Gold,28/1/2022,498
+DELL E2223HV,Monitors,37 of 46,Gold,14/2/2022,498
+E2318H,Monitors,37 of 46,Gold,17/1/2019,464
+E2417H,Monitors,13 of 46,Bronze,17/1/2019,496
+DELL E2420H,Monitors,38 of 46,Gold,8/1/2020,431
+DELL E2421HN,Monitors,37 of 46,Gold,28/9/2020,460
+DELL E2422H,Monitors,37 of 46,Gold,30/7/2021,454
+DELL E2422HN,Monitors,37 of 46,Gold,30/7/2021,478
+DELL E2422HS,Monitors,37 of 46,Gold,30/7/2021,494
+DELL E2720H,Monitors,38 of 46,Gold,8/1/2020,497
+DELL E2720HS,Monitors,37 of 46,Gold,8/1/2020,511
+DELL E2722H,Monitors,37 of 46,Gold,30/7/2021,455
+P1917S,Monitors,36 of 46,Gold,17/1/2019,433
+P2018H,Monitors,37 of 46,Gold,17/1/2019,428
+P2217,Monitors,36 of 46,Gold,17/1/2019,479
+P2217H,Monitors,13 of 45,Bronze,17/1/2019,468
+P2219H,Monitors,37 of 46,Gold,20/1/2019,472
+P2219HC,Monitors,13 of 44,Bronze,17/1/2019,487
+DELL P2222H,Monitors,38 of 46,Gold,25/5/2021,481
+DELL P2222H Without Stand,Monitors,38 of 46,Gold,25/5/2021,463
+P2319H,Monitors,36 of 46,Gold,17/1/2019,519
+P2415Q,Monitors,13 of 46,Bronze,17/1/2019,606
+P2417H,Monitors,13 of 44,Bronze,17/1/2019,468
+P2418D,Monitors,13 of 44,Bronze,17/1/2019,510
+P2418HT,Monitors,36 of 46,Gold,17/1/2019,463
+P2418HZm,Monitors,36 of 46,Gold,17/1/2019,505
+P2419H,Monitors,36 of 46,Gold,17/1/2019,505
+U2419H,Monitors,37 of 46,Gold,17/1/2019,505
+DELL P2419HC Without Stand,Monitors,36 of 46,Gold,20/2/2020,499
+U2419HC,Monitors,37 of 46,Gold,17/1/2019,499
+P2419HC,Monitors,37 of 46,Gold,17/1/2019,499
+DELL P2421D,Monitors,36 of 46,Gold,26/2/2020,523
+DELL P2422H,Monitors,39 of 46,Gold,25/5/2021,481
+DELL P2422H Without Stand,Monitors,39 of 46,Gold,25/5/2021,464
+DELL P2422HE,Monitors,37 of 46,Gold,25/5/2021,523
+DELL P2422HE Without Stand,Monitors,37 of 46,Gold,25/5/2021,542
+DELL P2423,Monitors,39 of 46,Gold,22/2/2022,565
+DELL P2423D,Monitors,39 of 46,Gold,22/2/2022,538
+DELL P2423DE,Monitors,37 of 46,Gold,22/2/2022,587
+P2719H,Monitors,36 of 46,Gold,17/1/2019,577
+DELL P2719HC Without Stand,Monitors,36 of 46,Gold,20/2/2020,623
+P2719HC,Monitors,36 of 46,Gold,17/1/2019,623
+DELL P2720D,Monitors,36 of 46,Gold,13/11/2019,563
+DELL P2720DC,Monitors,36 of 46,Gold,13/11/2019,579
+DELL P2721Q,Monitors,37 of 46,Gold,21/9/2020,581
+DELL P2722H,Monitors,38 of 46,Gold,25/5/2021,517
+DELL P2722HE,Monitors,37 of 46,Gold,25/5/2021,597
+DELL P3221D,Monitors,37 of 46,Gold,21/9/2020,670
+DELL P3222QE,Monitors,39 of 46,Gold,25/5/2021,739
+DELL P3421W,Monitors,36 of 46,Gold,19/10/2020,688
+U2412M,Monitors,31 of 46,Silver,17/1/2019,522
+U2415,Monitors,31 of 46,Silver,17/1/2019,530
+U2419HX,Monitors,13 of 46,Bronze,17/1/2019,541
+DELL U2421HE,Monitors,36 of 46,Gold,8/5/2020,549
+DELL U2422H,Monitors,37 of 46,Gold,29/3/2021,479
+DELL U2422H Without Stand,Monitors,37 of 46,Gold,29/3/2021,461
+DELL U2422HE,Monitors,36 of 46,Gold,29/3/2021,538
+DELL U2422HX,Monitors,37 of 46,Gold,29/3/2021,479
+U2518D,Monitors,13 of 49,Bronze,17/1/2019,557
+U2717D,Monitors,13 of 49,Bronze,17/1/2019,541
+U2719DC,Monitors,37 of 46,Gold,17/1/2019,673
+U2719DX,Monitors,13 of 46,Bronze,17/1/2019,656
+DELL U2720Q,Monitors,37 of 46,Gold,30/1/2020,655
+DELL U2721DE,Monitors,36 of 46,Gold,8/5/2020,593
+DELL U2722D,Monitors,39 of 46,Gold,29/3/2021,569
+DELL U2722DE,Monitors,38 of 46,Gold,29/3/2021,643
+DELL U2722DX,Monitors,39 of 46,Gold,29/3/2021,569
+DELL U2723QE,Monitors,36 of 46,Gold,28/1/2022,815
+DELL U2723QX,Monitors,36 of 46,Gold,3/2/2022,815
+U3219Q,Monitors,36 of 46,Gold,17/1/2019,789
+DELL U3223QE,Monitors,38 of 46,Gold,28/1/2022,880
+DELL U3421WE,Monitors,37 of 46,Gold,30/11/2020,880
+DELL U3821DW,Monitors,38 of 46,Gold,28/1/2021,802
+DELL U4021QW,Monitors,37 of 46,Gold,27/1/2021,926
+UP3218K,Monitors,38 of 46,Gold,17/1/2019,1012
+Chromebook 3100,Notebook,34 of 49,Silver,20/3/2019,266
+Chromebook 3100 2 in1,Notebook,34 of 49,Silver,21/3/2019,335
+Dell Latitude 5400 Chrome,Notebook,33 of 49,Silver,22/11/2019,325
+Latitude 3180,Notebook,20 of 51,Bronze,17/1/2019,243
+Latitude 3189,Notebook,20 of 51,Bronze,17/1/2019,257
+Latitude 3190,Notebook,20 of 51,Bronze,17/1/2019,226
+Latitude 3190 2-in-1,Notebook,20 of 51,Bronze,17/1/2019,230
+Latitude 3300,Notebook,20 of 51,Bronze,17/1/2019,293
+Latitude 3320,Notebook,35 of 49,Silver,13/4/2021,281
+Latitude 3380,Notebook,20 of 51,Bronze,29/1/2019,252
+Latitude 3390 2-in-1,Notebook,20 of 51,Bronze,22/5/2019,284
+Latitude 3400,Notebook,31 of 49,Silver,23/4/2019,279
+Latitude 3410,Notebook,32 of 49,Silver,18/5/2020,322
+Latitude 3420,Notebook,35 of 49,Silver,20/4/2021,315
+Latitude 3490,Notebook,20 of 51,Bronze,17/1/2019,243
+Latitude 3500,Notebook,31 of 49,Silver,23/4/2019,278
+Latitude 3520,Notebook,35 of 49,Silver,13/4/2021,318
+Latitude 3590,Notebook,20 of 51,Bronze,17/1/2019,254
+Latitude 5280,Notebook,20 of 51,Bronze,17/1/2019,225
+Latitude 5290,Notebook,20 of 51,Bronze,17/1/2019,218
+Latitude 5300,Notebook,33 of 49,Silver,25/4/2019,296
+Latitude 5300 2-in-1,Notebook,33 of 49,Silver,25/4/2019,316
+Latitude 5300 2-in-1 Chrome,Notebook,33 of 49,Silver,18/11/2019,299
+Latitude 3510,Notebook,33 of 49,Silver,18/5/2020,300
+Latitude 5310,Notebook,40 of 49,Gold,18/5/2020,300
+Latitude 5310 2-in-1,Notebook,40 of 49,Gold,18/5/2020,299
+Latitude 5320,Notebook,39 of 49,Gold,28/12/2020,348
+Latitude 5320 2in1,Notebook,39 of 49,Gold,28/12/2020,308
+Latitude 5400,Notebook,33 of 49,Silver,22/4/2019,315
+Latitude 5401,Notebook,33 of 49,Silver,17/5/2019,344
+Latitude 5410,Notebook,39 of 49,Gold,18/5/2020,326
+Latitude 5411,Notebook,39 of 49,Gold,18/5/2020,333
+Latitude 5420,Notebook,39 of 49,Gold,3/1/2021,364
+Latitude 5491,Notebook,20 of 51,Bronze,17/1/2019,254
+Latitude 5495,Notebook,20 of 51,Bronze,17/1/2019,255
+Latitude 5501,Notebook,33 of 49,Silver,17/5/2019,403
+Latitude 5510,Notebook,39 of 49,Gold,18/5/2020,348
+Latitude 5511,Notebook,39 of 49,Gold,18/5/2020,378
+Latitude 5520,Notebook,39 of 49,Gold,28/12/2020,324
+Latitude 5521,Notebook,39 of 49,Gold,25/5/2021,379
+Latitude 5500,Notebook,32 of 49,Silver,22/4/2019,259
+ Latitude 5580,Notebook,20 of 51,Bronze,17/1/2019,299
+ Latitude 5590,Notebook,20 of 51,Bronze,17/1/2019,271
+ Latitude 5591,Notebook,20 of 51,Bronze,17/1/2019,305
+ Latitude 7280,Notebook,20 of 51,Bronze,17/1/2019,222
+ Latitude 7290,Notebook,20 of 51,Bronze,17/1/2019,209
+Latitude 7300,Notebook,33 of 49,Silver,26/9/2019,323
+Latitude 7310,Notebook,39 of 49,Gold,18/5/2020,328
+Latitude 7310 2-in-1,Notebook,38 of 49,Gold,18/5/2020,326
+Latitude 7320,Notebook,38 of 49,Gold,3/1/2021,336
+Latitude 7320 2-in-1,Notebook,38 of 49,Gold,3/1/2021,333
+Latitude 7380,Notebook,20 of 51,Bronze,17/1/2019,259
+Latitude 7390,Notebook,20 of 51,Bronze,17/1/2019,222
+Latitude 7390 2-in-1,Notebook,20 of 51,Bronze,17/1/2019,332
+Latitude 7400,Notebook,33 of 49,Silver,29/4/2019,320
+Latitude 7400 2-in-1,Notebook,33 of 49,Silver,29/4/2019,351
+Latitude 7410,Notebook,39 of 49,Gold,18/5/2020,329
+Latitude 7410 2-in-1,Notebook,39 of 49,Gold,18/5/2020,338
+Latitude 7410 2-in-1 Chrome,Notebook,39 of 49,Gold,5/8/2020,463
+Latitude 7410 Chrome,Notebook,39 of 49,Gold,5/8/2020,454
+Latitude 7420,Notebook,38 of 49,Gold,3/1/2021,341
+Latitude 7420 2-in-1,Notebook,38 of 49,Gold,3/1/2021,353
+ Latitude 7480,Notebook,20 of 51,Bronze,17/1/2019,249
+ Latitude 7490,Notebook,20 of 51,Bronze,17/1/2019,241
+Latitude 7520,Notebook,38 of 49,Gold,3/1/2021,364
+Latitude 9420,Notebook,38 of 49,Gold,9/3/2021,344
+Latitude 9420 2-in-1,Notebook,38 of 49,Gold,24/5/2021,350
+Precision 3520,Notebook,20 of 51,Bronze,17/1/2019,304
+Precision 3530,Notebook,20 of 51,Bronze,17/1/2019,335
+Dell Precision 3550,Notebook,39 of 49,Gold,18/5/2020,395
+Dell Precision 3551,Notebook,39 of 49,Gold,18/5/2020,376
+Precision 5520,Notebook,20 of 51,Bronze,17/1/2019,368
+Precision 5530,Notebook,20 of 51,Bronze,17/1/2019,340
+Precision 5530 2-in-1,Notebook,20 of 51,Bronze,17/1/2019,330
+Dell Precision 5550,Notebook,38 of 49,Gold,18/5/2020,414
+Dell Precision 5750,Notebook,38 of 46,Gold,18/5/2020,515
+Precision 7520,Notebook,20 of 51,Bronze,4/4/2019,399
+Precision 7720,Notebook,20 of 51,Bronze,17/1/2019,416
+Vostro 15 3510,Notebook,28 of 49,Silver,26/6/2021,273
+Vostro 15 3515,Notebook,28 of 49,Silver,26/6/2021,282
+XPS 13 7390 2-in-1,Notebook,28 of 51,Silver,6/8/2019,372
+XPS 13-9300,Notebook,34 of 51,Silver,13/2/2020,327
+XPS 13-9310,Notebook,39 of 49,Gold,5/11/2020,322
+XPS 13 2-in-1 9310 2n1,Notebook,39 of 49,Gold,1/10/2020,342
+XPS 13-9360,Notebook,20 of 51,Bronze,24/1/2019,286
+XPS 13-9365,Notebook,20 of 51,Bronze,24/1/2019,287
+XPS 13-9370,Notebook,20 of 51,Bronze,24/1/2019,297
+XPS 13-9380,Notebook,20 of 51,Bronze,24/1/2019,317
+XPS  15-9510,Notebook,38 of 49,Gold,15/6/2021,431
+XPS 15-9570,Notebook,20 of 51,Bronze,17/1/2019,324
+XPS 17 9710,Notebook,37 of 46,Gold,21/6/2021,509
+Latitude 3120,Notebook,36 of 49,Silver,15/1/2021,231
+Latitude 3120  2-in-1,Notebook,36 of 49,Silver,15/1/2021,245
