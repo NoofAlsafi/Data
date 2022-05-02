@@ -1,0 +1,23 @@
+﻿Server Name,Product Type,Total Score,EPEAT Tier,Registered On,Carbon Footprint,Manufacturing,Transportation,Use,EoL
+PowerEdge C6420,Multi-node Server,3 of 69,Bronze,30/08/2018,6510,80.7,18.5,0.5,0.3
+PowerEdge FC640,Multi-node Server,3 of 69,Bronze,30/08/2018,7460,21.7,1.4,76.8,0.1
+PowerEdge M640,Blade Server,3 of 66,Bronze,30/08/2018,7000,23.7,3.6,72.2,0.5
+PowerEdge R240,Rack-mounted Server,3 of 69,Bronze,05/11/2019,5260,22.2,0.4,77.3,0.1
+PowerEdge R340,Rack-mounted Server,3 of 69,Bronze,29/11/2018,5230,22,0.3,77.6,0.1
+PowerEdge R440,Rack-mounted Server,3 of 69,Bronze,30/08/2018,7360,15.7,0.3,83.9,0.1
+PowerEdge R540,Rack-mounted Server,3 of 69,Bronze,30/08/2018,8230,15,0.3,84.6,0.1
+PowerEdge R640,Rack-mounted Server,3 of 69,Bronze,30/08/2018,7730,16.6,0.3,83,0.1
+PowerEdge R6415,Rack-mounted Server,3 of 69,Bronze,30/08/2018,6840,17.4,0.3,82.2,0.1
+PowerEdge R6525,Multi-node Server,3 of 67,Bronze,09/12/2019,12700,5.7,0.2,94,0.1
+PowerEdge R740,Rack-mounted Server,3 of 69,Bronze,30/08/2018,8640,15.2,0.4,84.3,0.1
+PowerEdge R740XD,Rack-mounted Server,3 of 69,Bronze,30/08/2018,9180,14.4,0.3,85.2,0.1
+PowerEdge R7415,Rack-mounted Server,3 of 69,Bronze,30/08/2018,8090,15.2,0.3,84.4,0.1
+PowerEdge R7425,Rack-mounted Server,3 of 69,Bronze,30/08/2018,11600,11.3,0.2,88.4,0.1
+PowerEdge R7425,Rack-mounted Server,3 of 69,Bronze,27/02/2020,11600,88.4,11.3,0.2,0.1
+PowerEdge R7515,Rack-mounted Server,3 of 69,Bronze,24/09/2019,8990,8.5,0.3,0.3,0.2
+PowerEdge R840,Rack-mounted Server,3 of 69,Bronze,30/08/2018,15600,9.8,0.2,89.9,0.1
+PowerEdge R940,Rack-mounted Server,3 of 69,Bronze,04/09/2018,14100,9.8,0.4,89.6,0.2
+PowerEdge R940xa,Rack-mounted Server,3 of 69,Bronze,30/08/2018,13200,5.9,0.3,93.6,0.2
+PowerEdge T340,Pedestal Server,3 of 69,Bronze,29/11/2018,4780,23.7,0.8,75.2,0.3
+PowerEdge T440,Pedestal Server,3 of 69,Bronze,30/08/2018,7810,15.3,0.5,84,0.2
+PowerEdge T640,Pedestal Server,3 of 69,Bronze,30/08/2018,8000,16.4,0.7,82.6,0.3
